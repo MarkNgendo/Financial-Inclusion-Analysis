@@ -15,5 +15,5 @@ Self employed people are more likely to have a bank account when compared to oth
 Phone access has also been highlighted as a big indicator of people likely to have an account.
 
 The source of the files can be found below:
-* [Variable Definitions] (http://bit.ly/VariableDefinitions)
-* [Dataset] (http://bit.ly/FinancialDataset) 
+* [Variable Definitions](http://bit.ly/VariableDefinitions)
+* [Dataset](http://bit.ly/FinancialDataset) 
